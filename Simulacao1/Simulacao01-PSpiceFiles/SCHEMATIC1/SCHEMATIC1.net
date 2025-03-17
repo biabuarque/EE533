@@ -1,0 +1,6 @@
+* source SIMULACAO01
+D_D1         N14395 N14403 D1N4003 
+R_R1         0 N14403  42k TC=0,0 
+V_V1         N14395 0  
++SIN 0 100V 60 0 0 0
+C_C1         0 N14403  15.874u  TC=0,0 
