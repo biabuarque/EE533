@@ -1,7 +1,7 @@
 
-**** 03/15/25 19:53:29 ******* PSpice Lite (March 2016) ******* ID# 10813 ****
+**** 03/17/25 16:28:05 ******* PSpice Lite (March 2016) ******* ID# 10813 ****
 
- ** Profile: "SCHEMATIC1-Tensao1"  [ C:\Users\silva\Desktop\1s2025\EE533\Simulacao1\Simulacao01-PSpiceFiles\SCHEMATIC1\Tensao1.sim ] 
+ ** Profile: "SCHEMATIC1-Tensao1"  [ C:\Users\silva\Desktop\1s2025\EE533\Simulacao1\simulacao01-pspicefiles\schematic1\tensao1.sim ] 
 
 
  ****     CIRCUIT DESCRIPTION
@@ -35,14 +35,14 @@ D_D1         N14395 N14403 D1N4003
 R_R1         0 N14403  42k TC=0,0 
 V_V1         N14395 0  
 +SIN 0 100V 60 0 0 0
-C_C1         0 N14403  15.874u  TC=0,0 
+C_C1         N14403 0  15.774u  TC=0,0 
 
 **** RESUMING Tensao1.cir ****
 .END
 
-**** 03/15/25 19:53:29 ******* PSpice Lite (March 2016) ******* ID# 10813 ****
+**** 03/17/25 16:28:05 ******* PSpice Lite (March 2016) ******* ID# 10813 ****
 
- ** Profile: "SCHEMATIC1-Tensao1"  [ C:\Users\silva\Desktop\1s2025\EE533\Simulacao1\Simulacao01-PSpiceFiles\SCHEMATIC1\Tensao1.sim ] 
+ ** Profile: "SCHEMATIC1-Tensao1"  [ C:\Users\silva\Desktop\1s2025\EE533\Simulacao1\simulacao01-pspicefiles\schematic1\tensao1.sim ] 
 
 
  ****     Diode MODEL PARAMETERS
@@ -66,9 +66,9 @@ C_C1         0 N14403  15.874u  TC=0,0
            M     .44             .44         
 
 
-**** 03/15/25 19:53:29 ******* PSpice Lite (March 2016) ******* ID# 10813 ****
+**** 03/17/25 16:28:05 ******* PSpice Lite (March 2016) ******* ID# 10813 ****
 
- ** Profile: "SCHEMATIC1-Tensao1"  [ C:\Users\silva\Desktop\1s2025\EE533\Simulacao1\Simulacao01-PSpiceFiles\SCHEMATIC1\Tensao1.sim ] 
+ ** Profile: "SCHEMATIC1-Tensao1"  [ C:\Users\silva\Desktop\1s2025\EE533\Simulacao1\simulacao01-pspicefiles\schematic1\tensao1.sim ] 
 
 
  ****     INITIAL TRANSIENT SOLUTION       TEMPERATURE =   27.000 DEG C
@@ -97,9 +97,9 @@ C_C1         0 N14403  15.874u  TC=0,0
 
           JOB CONCLUDED
 
-**** 03/15/25 19:53:29 ******* PSpice Lite (March 2016) ******* ID# 10813 ****
+**** 03/17/25 16:28:05 ******* PSpice Lite (March 2016) ******* ID# 10813 ****
 
- ** Profile: "SCHEMATIC1-Tensao1"  [ C:\Users\silva\Desktop\1s2025\EE533\Simulacao1\Simulacao01-PSpiceFiles\SCHEMATIC1\Tensao1.sim ] 
+ ** Profile: "SCHEMATIC1-Tensao1"  [ C:\Users\silva\Desktop\1s2025\EE533\Simulacao1\simulacao01-pspicefiles\schematic1\tensao1.sim ] 
 
 
  ****     JOB STATISTICS SUMMARY
@@ -109,5 +109,5 @@ C_C1         0 N14403  15.874u  TC=0,0
 
 
 
-  Total job time (using Solver 1)   =         .03
+  Total job time (using Solver 1)   =         .02
 
